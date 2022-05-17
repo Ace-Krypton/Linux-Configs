@@ -1,1 +1,1 @@
-# Polybar-Config
+# Linux-Configs
